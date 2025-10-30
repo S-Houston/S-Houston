@@ -3,10 +3,11 @@
 
 # 👋 Hi, I’m Stuart Houston
 
-I’m a Data Scientist specialising in building **end‑to‑end ML and LLM solutions** in regulated industries.  
-Currently the sole Data Scientist at CNOOC, I focus on **capability‑building, MLOps practices, and strategic AI adoption** in environments where production infrastructure is still maturing.
+I’m a Data Scientist focused on delivering **proof‑of‑concepts that demonstrate value quickly** while laying the foundations for scalable, production‑ready solutions.  
 
-Because much of my work involves confidential data, I can only share selected public projects here. These repos are designed as **case studies** that reflect the same challenges I tackle professionally: messy industrial data, compliance‑heavy contexts, and the need for reproducible, production‑minded pipelines.
+As the sole Data Scientist at CNOOC, my work is about more than building models, it’s about proving what’s possible, showing the business where Data Science adds value, and designing solutions with the **modularity and reproducibility** needed to migrate from a development to production infrastructure when the organisation is ready.  
+
+Because much of my work involves sensitive data, I can only share selected public projects here. These repos are designed as **case studies** that reflect the same challenges I tackle professionally: messy industrial data, feasibility testing, and building pipelines that are robust enough to scale.
 
 ---
 
