@@ -1,45 +1,43 @@
-# Hi, I'm Stuart Houston 👋
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Stuart_Houston-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/stuart-houston-14835133)
 [![GitHub followers](https://img.shields.io/github/followers/S-Houston?style=social)](https://github.com/S-Houston)
 
-I'm a **Data Scientist** with a focus on **Python, Machine Learning, and MLOps**. I enjoy turning complex industrial and operational problems into actionable insights using end-to-end ML pipelines.
+# 👋 Hi, I’m Stuart Houston
+
+I’m a Data Scientist specialising in building **end‑to‑end ML and LLM solutions** in regulated industries.  
+Currently the sole Data Scientist at CNOOC, I focus on **capability‑building, MLOps practices, and strategic AI adoption** in environments where production infrastructure is still maturing.
+
+Because much of my work involves confidential data, I can only share selected public projects here. These repos are designed as **case studies** that reflect the same challenges I tackle professionally: messy industrial data, compliance‑heavy contexts, and the need for reproducible, production‑minded pipelines.
 
 ---
 
-## 🔭 Current Focus
-- **Predictive Maintenance & Anomaly Detection** on industrial datasets.  
-- **P&ID Digitisation**: Automating diagram parsing with object detection, OCR, and structured outputs.  
-- **ML Engineering & MLOps**: Building production-ready ML pipelines, dashboards, and internal Python tooling.  
+## 🔧 Featured Projects
+
+### [Predictive Maintenance (CMAPSS)](https://github.com/S-Houston/predictive_maintenance)
+- NASA CMAPSS dataset → Remaining Useful Life prediction  
+- End‑to‑end workflow: feature engineering → model training (LightGBM/XGBoost) → MLflow tracking → FastAPI service → Streamlit dashboard  
+- Structured with Cookiecutter DS template, unit tests, tox, and Makefile for reproducibility  
+- Business framing: risk classification (high/medium/low) for asset management decisions  
+
+### [Digitised P&ID Diagrams](https://github.com/S-Houston/digitised-pid-mlops)
+- Computer vision + OCR pipeline for legacy engineering diagrams  
+- YOLOv5 for symbol detection, EAST for text detection, Tesseract for OCR  
+- Streamlit app for interactive validation  
+- Evaluation with precision/recall/mAP across 19 classes  
+- Future work: Dockerisation, MLflow integration, CI/CD  
 
 ---
 
-## 💡 Key Skills
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)]()
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)]()
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)]()
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)]()
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)]()
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)]()
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)]()
-[![MLflow](https://img.shields.io/badge/MLflow-0093D0?style=flat&logo=mlflow&logoColor=white)]()
+## 🧭 What I Focus On
+- Designing **production‑ready pipelines** even in infra‑limited environments  
+- Embedding **MLOps practices**: reproducibility, testing, CI/CD, experiment tracking  
+- Translating technical work into **business‑aligned outcomes** (compliance, risk, asset management)  
+- Building **AI capability from scratch**: policies, governance, and roadmaps  
 
 ---
 
-## 📂 Featured Projects
-- **[CMAPSS Jet Engine Predictive Maintenance](https://github.com/S-Houston/predictive_maintenance)**  
-  Open-source NASA data project for **anomaly detection & Remaining Useful Life forecasting**, with dashboards and MLflow tracking.
-
-- **[Digitised P&ID](https://github.com/S-Houston/digitised-pid-mlops)**  
-  Automating industrial diagram parsing using **YOLOv5**, **OCR**, and structured outputs. Code developed for thesis submission; methodology fully self-contained.  
-
-- **Personal ML Projects**  
-  Additional experiments and explorations in ML engineering, MLOps, and Python tooling.
-
----
-
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/stuart-houston-14835133)
+## 📫 Let’s Connect
+- [LinkedIn](https://www.linkedin.com/in/stuart-houston-14835133/)  
+- Always open to discussing **senior DS roles** , or opportunities to drive **AI maturity** at scale.
 
 ---
 
