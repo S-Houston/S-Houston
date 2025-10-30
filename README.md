@@ -1,13 +1,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Stuart_Houston-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/stuart-houston-14835133)
 [![GitHub followers](https://img.shields.io/github/followers/S-Houston?style=social)](https://github.com/S-Houston)
 
-# 👋 Hi, I’m Stuart Houston
+👋 Hi, I’m Stuart Houston  
+I’m a Data Scientist focused on delivering proof‑of‑concepts that demonstrate value quickly while laying the foundations for scalable, production‑ready solutions.
 
-I’m a Data Scientist focused on delivering **proof‑of‑concepts that demonstrate value quickly** while laying the foundations for scalable, production‑ready solutions.  
+As the sole Data Scientist at CNOOC, my role goes beyond building models it’s about proving what’s possible, showing the business where Data Science adds value, and designing solutions with the modularity and reproducibility needed to migrate from development to production infrastructure when the organisation is ready.
 
-As the sole Data Scientist at CNOOC, my work is about more than building models, it’s about proving what’s possible, showing the business where Data Science adds value, and designing solutions with the **modularity and reproducibility** needed to migrate from a development to production infrastructure when the organisation is ready.  
+Because much of my work involves sensitive data, I can only share selected public projects here. These repos are curated as case studies that reflect the same challenges I tackle professionally: messy industrial data, feasibility testing, and building pipelines robust enough to scale.
 
-Because much of my work involves sensitive data, I can only share selected public projects here. These repos are designed as **case studies** that reflect the same challenges I tackle professionally: messy industrial data, feasibility testing, and building pipelines that are robust enough to scale.
 
 ---
 
